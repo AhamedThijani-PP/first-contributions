@@ -2141,3 +2141,5 @@ sh0uka
 - [Zain Amjad](https://github.com/zancheema)
 - [Duoduo](https://github.com/NamingRacksMyBrain)
 - [Subhajit Datta](https://github.com/subhajit2205)
+- [Mate Kopaliani](https://github.com/Ka10ken1)
+- [Lucas Mattoso](https://github.com/lucasmattoso-dev)
